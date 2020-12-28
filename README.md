@@ -2,6 +2,9 @@ https://github.com/manid2/lone-wolf-theme
 https://github.com/abhn/Wall-E
 https://jamstackthemes.dev/demo/theme/jekyll-liberxue-theme/
 https://github.com/sharu725/slides/blob/master/index.html
+https://github.com/sharu725/cards
+https://jamstackthemes.dev/demo/theme/jekyll-tufte-theme/
+https://github.com/thesowah/GridGallery/blob/master/index.html
 
 
 # [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
